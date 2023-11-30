@@ -1,0 +1,10 @@
+{
+    "manifest_version":3,
+    "version":"1.0",
+    "name": "Smart Diary",
+    "description": "save your favorite links to the snmart diary",
+    "action":{
+        "default_icon":"SmartDiary.png",
+        "default_popup":"index.html"
+    }
+}
