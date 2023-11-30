@@ -1,0 +1,16 @@
+body{
+    background: linear-gradient(rgb(0, 0, 0) 0%, rgb(12, 50, 59) 50%, #2b2a2a 100%);
+    
+}
+
+input{
+    background: transparent;
+    margin-top: 3px;
+    border: 1px solid saddlebrown;
+    color: whitesmoke;
+    
+}
+
+.in_div{
+    
+}
